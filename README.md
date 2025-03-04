@@ -1,6 +1,6 @@
 # 📄 My Resume  
 
-![Resume Banner](https://github.com/Mubarak-04/Resume/blob/main/resume_banner.png)  
+![Resume Banner](https://github.com/Mubarak-04/ATS_Resume/blob/main/resume_banner.png)  
 
 ## 📌 Overview  
 This repository contains my *ATS-optimized resume* tailored for *Data Analyst* roles. It highlights my skills, experience, and projects in *Python, SQL, Power BI, Tableau, and data analytics*.  
