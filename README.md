@@ -25,7 +25,7 @@ This resume has been tested for *Applicant Tracking System (ATS) compliance* and
 ---
 
 ## 🚀 How to Use  
-1️⃣ *View the Resume:* [Download Resume (PDF)](https://github.com/Mubarak-04/Resume/blob/main/Resume_UP_N.pdf)  
+1️⃣ *View the Resume:* [Download Resume (PDF)](https://github.com/Mubarak-04/ATS_Resume/blob/main/Resume_UP_N.pdf)  
 2️⃣ *Edit & Customize:* The *Overleaf source code* is included for easy modifications.  
 3️⃣ *Use for Applications:* This resume is structured for *data analytics job applications* and meets industry standards.  
 
